@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "388253842945",
+    "project_id": "myeyeisyour",
+    "storage_bucket": "myeyeisyour.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388253842945:android:3570d93a55d31230784a00",
+        "android_client_info": {
+          "package_name": "com.example.myeyeisyours"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388253842945-6519dpqet0imdtmnm16fu9prqb7n02cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZw-mR0hL41JbmtINB07mMQtaES4k_vvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388253842945-6519dpqet0imdtmnm16fu9prqb7n02cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
