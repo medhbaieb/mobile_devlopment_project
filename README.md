@@ -1,4 +1,4 @@
-# # myeyeisyours
+## myeyeisyours
 
 Handicap should Never be the reason for misfortune. That's why we should always try to better the lives of those who have difficulties going by their daily life. And this where our app comes in. MyEyeIsYours will help ease the life of those who are visually impaired. Through its various functionalities and services, unsighted people can have assistance doing everyday tasks. Our app will also give the chance to those who want to volunteer and give a hand to those who need it.
 
