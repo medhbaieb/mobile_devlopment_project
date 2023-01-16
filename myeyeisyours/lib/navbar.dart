@@ -17,9 +17,9 @@ class NavBar extends StatelessWidget {
       child: ListView(
         children: [
           UserAccountsDrawerHeader(
-            accountName: Text("Youssef Chtourou"),
+            accountName: Text("Your account is"),
             accountEmail:
-                Text("youssef.chtourou@supcom.tn"), //to make a variable email
+                Text(email), //to make a variable email
             currentAccountPicture: CircleAvatar(
               child: ClipOval(
                   child: Image.asset(
